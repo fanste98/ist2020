@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<Oglasi>
+  <Oglas>
+    <KategorijaOglasa>
+      Automobili
+    </KategorijaOglasa>
+    <DatumIsteka>13.09.2020.</DatumIsteka>
+    <Cena valute="dinar">24000</Cena>
+    <TekstOglasa>
+      Ovo je neki oglas o automobilima.
+    </TekstOglasa>
+    <Oznaka>
+      Oznaka1
+    </Oznaka>
+    <Oznaka>
+      Oznaka2
+    </Oznaka>
+    <Email tip="privatni">
+      petarpetrovic@gmail.com
+    </Email>
+    <Email tip="sluzbeni">
+      prodautomobila@gmail.com
+    </Email>
+  </Oglas>
+  <Oglas>
+    <KategorijaOglasa>
+      Stanovi
+    </KategorijaOglasa>
+    <DatumIsteka>20.09.2020.</DatumIsteka>
+    <Cena valute="euro">250</Cena>
+    <TekstOglasa>
+      Ovo je neki oglas za stan.
+    </TekstOglasa>
+    <Oznaka>
+      Oznaka1
+    </Oznaka>
+    <Email tip="privatni">
+      markomarkovic@gmail.com
+    </Email>
+    <Email tip="sluzbeni">
+      prodstanova@gmail.com
+    </Email>
+  </Oglas>
+</Oglasi>
