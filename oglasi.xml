@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<!DOCTYPE Oglasi SYSTEM "oglasi.dtd">
 <Oglasi>
   <Oglas>
     <KategorijaOglasa>
       Automobili
     </KategorijaOglasa>
     <DatumIsteka>13.09.2020.</DatumIsteka>
-    <Cena valute="dinar">24000</Cena>
+    <Cena valuta="dinar">24000</Cena>
     <TekstOglasa>
       Ovo je neki oglas o automobilima.
     </TekstOglasa>
@@ -27,7 +28,7 @@
       Stanovi
     </KategorijaOglasa>
     <DatumIsteka>20.09.2020.</DatumIsteka>
-    <Cena valute="euro">250</Cena>
+    <Cena valuta="euro">250</Cena>
     <TekstOglasa>
       Ovo je neki oglas za stan.
     </TekstOglasa>
