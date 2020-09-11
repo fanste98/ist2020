@@ -1,33 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <!DOCTYPE Oglasi SYSTEM "oglasi.dtd">
-<Oglasi>
+<Oglasi xmlns="http://www.w3schools.com"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.w3schools.com oglasi.xsd">
   <Oglas>
     <KategorijaOglasa>
       Automobili
     </KategorijaOglasa>
-    <DatumIsteka>13.09.2020.</DatumIsteka>
+    <DatumIsteka>
+      <Dan>13</Dan>
+      <Mesec>11</Mesec>
+      <Godina>2020</Godina>
+    </DatumIsteka>
     <Cena valuta="dinar">24000</Cena>
-    <TekstOglasa>
-      Ovo je neki oglas o automobilima.
-    </TekstOglasa>
+    <TekstOglasa>Ovo je tekst oglasa za automobile.</TekstOglasa>
     <Oznaka>
       Oznaka1
     </Oznaka>
     <Oznaka>
       Oznaka2
     </Oznaka>
-    <Email tip="privatni">
-      petarpetrovic@gmail.com
-    </Email>
-    <Email tip="sluzbeni">
-      prodautomobila@gmail.com
-    </Email>
+    <Email tip="privatni">petarpetrovic@gmail.com</Email>
+    <Email tip="sluzbeni">prodautomobila@gmail.com</Email>
   </Oglas>
   <Oglas>
     <KategorijaOglasa>
       Stanovi
     </KategorijaOglasa>
-    <DatumIsteka>20.09.2020.</DatumIsteka>
+    <DatumIsteka>
+      <Dan>24</Dan>
+      <Mesec>9</Mesec>
+      <Godina>2020</Godina>
+    </DatumIsteka>
     <Cena valuta="euro">250</Cena>
     <TekstOglasa>
       Ovo je neki oglas za stan.
@@ -35,11 +39,7 @@
     <Oznaka>
       Oznaka1
     </Oznaka>
-    <Email tip="privatni">
-      markomarkovic@gmail.com
-    </Email>
-    <Email tip="sluzbeni">
-      prodstanova@gmail.com
-    </Email>
+    <Email tip="privatni">markomarkovic@gmail.com</Email>
+    <Email tip="sluzbeni">prodstanova@gmail.com</Email>
   </Oglas>
 </Oglasi>
